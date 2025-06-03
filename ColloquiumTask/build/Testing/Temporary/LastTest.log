@@ -1,0 +1,43 @@
+Start testing: Apr 03 23:11 +03
+----------------------------------------------------------
+1/1 Testing: runTests
+1/1 Test: runTests
+Command: "/Users/olegraytsev/Documents/bsu/osy/ColloquiumTask/build/runTests"
+Directory: /Users/olegraytsev/Documents/bsu/osy/ColloquiumTask/build
+"runTests" start time: Apr 03 23:11 +03
+Output:
+----------------------------------------------------------
+Running main() from /Users/olegraytsev/Documents/bsu/osy/ColloquiumTask/build/_deps/googletest-src/googletest/src/gtest_main.cc
+[==========] Running 5 tests from 3 test suites.
+[----------] Global test environment set-up.
+[----------] 2 tests from FibonacciTest
+[ RUN      ] FibonacciTest.GeneratesCorrectSequence
+[       OK ] FibonacciTest.GeneratesCorrectSequence (0 ms)
+[ RUN      ] FibonacciTest.ThrowsOnZero
+[       OK ] FibonacciTest.ThrowsOnZero (0 ms)
+[----------] 2 tests from FibonacciTest (0 ms total)
+
+[----------] 2 tests from PalindromeTest
+[ RUN      ] PalindromeTest.PalindromeNumber
+[       OK ] PalindromeTest.PalindromeNumber (0 ms)
+[ RUN      ] PalindromeTest.NotPalindromeNumber
+[       OK ] PalindromeTest.NotPalindromeNumber (0 ms)
+[----------] 2 tests from PalindromeTest (0 ms total)
+
+[----------] 1 test from ReverseListTest
+[ RUN      ] ReverseListTest.ReverseCorrectly
+[       OK ] ReverseListTest.ReverseCorrectly (0 ms)
+[----------] 1 test from ReverseListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 5 tests from 3 test suites ran. (0 ms total)
+[  PASSED  ] 5 tests.
+<end of output>
+Test time =   0.33 sec
+----------------------------------------------------------
+Test Passed.
+"runTests" end time: Apr 03 23:11 +03
+"runTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Apr 03 23:11 +03

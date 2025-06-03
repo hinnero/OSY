@@ -1,0 +1,19 @@
+Start testing: Apr 07 08:28 +03
+----------------------------------------------------------
+Unable to find executable: /Users/olegraytsev/Documents/bsu/osy/laba3/build/runTests
+1/1 Testing: runTests
+1/1 Test: runTests
+Command: ""
+Directory: /Users/olegraytsev/Documents/bsu/osy/laba3/build
+"runTests" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"runTests" end time: Apr 07 08:28 +03
+"runTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Apr 07 08:28 +03

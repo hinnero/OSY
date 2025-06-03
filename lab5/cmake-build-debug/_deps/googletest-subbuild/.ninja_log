@@ -1,0 +1,21 @@
+# ninja log v6
+0	22	1747035416052664057	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	2c80879015dbe254
+0	22	1747035416052664057	/Users/olegraytsev/Documents/bsu/osy/lab5/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	2c80879015dbe254
+1	1359	1747035625271122481	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	1f91c2643905242d
+1	1359	1747035625271122481	/Users/olegraytsev/Documents/bsu/osy/lab5/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	1f91c2643905242d
+1359	1376	1747035625288294643	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	9225f7f500820a
+1359	1376	1747035625288294643	/Users/olegraytsev/Documents/bsu/osy/lab5/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	9225f7f500820a
+1376	1392	1747035625304980026	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	129ce3bf564c1b0f
+1376	1392	1747035625304980026	/Users/olegraytsev/Documents/bsu/osy/lab5/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	129ce3bf564c1b0f
+1392	1409	1747035625322050774	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	f3bb493b38582abf
+1392	1409	1747035625322050774	/Users/olegraytsev/Documents/bsu/osy/lab5/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	f3bb493b38582abf
+1409	1426	1747035625338807781	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	643c6ecee4fdf0da
+1409	1426	1747035625338807781	/Users/olegraytsev/Documents/bsu/osy/lab5/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	643c6ecee4fdf0da
+1426	1443	1747035625355120341	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	a256a1c78273c134
+1426	1443	1747035625355120341	/Users/olegraytsev/Documents/bsu/osy/lab5/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	a256a1c78273c134
+1443	1460	1747035625372316669	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	f6a995bb87e1f7d2
+1443	1460	1747035625372316669	/Users/olegraytsev/Documents/bsu/osy/lab5/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	f6a995bb87e1f7d2
+1460	1482	1747035625394727398	CMakeFiles/googletest-populate-complete	f393552de735698
+1460	1482	1747035625394727398	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	f393552de735698
+1460	1482	1747035625394727398	/Users/olegraytsev/Documents/bsu/osy/lab5/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	f393552de735698
+1460	1482	1747035625394727398	/Users/olegraytsev/Documents/bsu/osy/lab5/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	f393552de735698

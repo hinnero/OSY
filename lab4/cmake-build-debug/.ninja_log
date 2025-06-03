@@ -1,0 +1,8 @@
+# ninja log v6
+19	1160	1743401418265482389	CMakeFiles/runTests.dir/src/MessageQueue.cpp.o	bf1833a0220f23bf
+1481	1797	1743401419728111877	runTests	13189c67a6b59e5a
+3	2141	1743373052803513586	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	de27c74dba90bec1
+18	1481	1743401418264284104	CMakeFiles/runTests.dir/tests/message_queue_test.cpp.o	a9ed5169d18e7103
+2	3925	1743373052802419969	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	d69c392ba12fbf1f
+3926	4031	1743373056726324943	lib/libgtest.a	72c5846e50d5e806
+4031	4056	1743373056831142618	lib/libgtest_main.a	d369228b4877e58d

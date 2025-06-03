@@ -1,0 +1,20 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -G Ninja -S /Users/olegraytsev/Downloads/osy/lab5 -B /Users/olegraytsev/Downloads/osy/lab5/cmake-build-debug
+-- The CXX compiler identification is AppleClang 17.0.0.17000013
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+CMake Error: The current CMakeCache.txt directory /Users/olegraytsev/Downloads/osy/lab5/cmake-build-debug/_deps/googletest-subbuild/CMakeCache.txt is different than the directory /Users/olegraytsev/Documents/bsu/osy/lab5/cmake-build-debug/_deps/googletest-subbuild where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt
+
+CMake Error at /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.31/Modules/FetchContent.cmake:1906 (message):
+  CMake step for googletest failed: 1
+Call Stack (most recent call first):
+  /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.31/Modules/FetchContent.cmake:1609 (__FetchContent_populateSubbuild)
+  /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.31/Modules/FetchContent.cmake:2145:EVAL:2 (__FetchContent_doPopulation)
+  /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.31/Modules/FetchContent.cmake:2145 (cmake_language)
+  /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.31/Modules/FetchContent.cmake:2384 (__FetchContent_Populate)
+  CMakeLists.txt:15 (FetchContent_MakeAvailable)
+
+
+-- Configuring incomplete, errors occurred!
